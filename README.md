@@ -1,4 +1,4 @@
-# my-project
+# Cryptocurrency Portfolio 
 
 ## Project setup
 ```
