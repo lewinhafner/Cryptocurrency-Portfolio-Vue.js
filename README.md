@@ -1,5 +1,5 @@
 # Cryptocurrency Portfolio 
-
+A Cryptocurrency Portfolio App coded in Vue.js
 ## Project setup
 ```
 npm install
